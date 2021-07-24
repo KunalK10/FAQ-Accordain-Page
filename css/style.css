@@ -79,6 +79,7 @@ body {
 }
 
 .panel {
+    display: none;
     font-family: "Kumbh Sans", sans-serif;
     color: hsl(238, 29%, 16%);
     margin-bottom: 10px;
